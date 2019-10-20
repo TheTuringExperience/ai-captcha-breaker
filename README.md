@@ -1,4 +1,4 @@
-# captcha-breaker-ia
+# AI Captcha Breaker
 
 This project uses a convolutional neural network trainied on images of really_simple captchas to try to automate the process
 of reading captchas like the one bellow:
